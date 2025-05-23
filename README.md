@@ -31,7 +31,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 
 
 <div align="center">  
-<a href="https://br.linkedin.com/in/kaique-matheus-186037167" target="_blank"><img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://br.linkedin.com/in/kaique-matheus-186037167" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 
 </div> 
  
