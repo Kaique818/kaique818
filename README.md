@@ -68,7 +68,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 
 ## Certificações ☝️🤓
 
-![cybersecurity-essentials](https://www.credly.com/badges/bddae0f4-2c44-493e-be24-6fb5dbe42d80/public_url)
+![cybersecurity-essentials](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bddae0f4-2c44-493e-be24-6fb5dbe42d80" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
 <!--
 **Kaique818/kaique818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
