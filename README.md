@@ -1,4 +1,3 @@
- 👋
 <div>
 <a href = "https://github.com/Kaique818">
   
@@ -65,6 +64,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+
+## Certificações ☝️🤓
+
+![cybersecurity-essentials](https://www.credly.com/badges/bddae0f4-2c44-493e-be24-6fb5dbe42d80/public_url)
 <!--
 **Kaique818/kaique818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
