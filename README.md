@@ -52,7 +52,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-  <div>
+  <div align="center">
    <h1 align="center"> Contatos</h1>
 <a href="www.linkedin.com/in/kaique-matheus-186037167" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
  <a href="Kaiquematheus142005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo="_em branco"</></a>
