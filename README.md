@@ -29,9 +29,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 
 
 
-<div align="center">  
-<a href="https://br.linkedin.com/in/kaique-matheus-186037167" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-
 </div> 
  
 ### Main skills:
@@ -57,7 +54,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 
   <div>
    <h1 alinhar="centro"> Contatos</h1>
-<a href="https://br.linkedin.com/in/kaique-matheus-186037167" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="www.linkedin.com/in/kaique-matheus-186037167" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
  <a href="Kaiquematheus142005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo="_em branco"</></a>
 </div>
 
