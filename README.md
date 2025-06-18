@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <div>
 <a href = "https://github.com/Kaique818">
 
@@ -28,7 +30,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
 <div align="center">  
