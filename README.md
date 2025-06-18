@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 
 </div> 
  
-<h1 alinhar="centro"> Main skills: </h1>
+### Main skills:
 ![Java.JS](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![PHP.js](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)&nbsp;
 
