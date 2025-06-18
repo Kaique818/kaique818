@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1%2C+seja+Bem-vindo;sou+Kaique+Silva;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;venha+conhecer+meus+projetos+%F0%9F%98%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+seja+Bem-vindo;sou+Kaique+Silva;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;venha+conhecer+meus+projetos+%F0%9F%98%89)](https://git.io/typing-svg)
 
 <div>
 <a href = "https://github.com/Kaique818">
@@ -10,7 +10,7 @@
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique818&layout=donut&theme=algolia" />
 
 #
-</div>
+/*</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="kai-JAVA" height="60" width="70"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
@@ -29,7 +29,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   <img align="center" alt="kai-Csharp" height="50" width="60"   
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
+*/
 
 
 
