@@ -3,7 +3,6 @@
 <div>
 <a href = "https://github.com/Kaique818">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo;Sou+Mariana+Sorroche+💜;Estudante+de+Sistemas+da+Informação)](https://git.io/typing-svg)
 
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=kaique818&show_icons=true&theme=algolia">
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique818&layout=donut&theme=algolia" />
