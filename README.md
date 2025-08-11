@@ -32,6 +32,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 </div> 
  
 ### Main skills:
+![JS.JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Java.JS](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![PHP.js](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)&nbsp;
 
