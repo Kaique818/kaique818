@@ -2,13 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+seja+Bem+vindo(a);eu+sou+Kaique+Silva;estou+graduando+em+Sistemas+de+Informa%C3%A7%C3%A3o;venha+conhecer+meus+projetos!+%F0%9F%98%89)](https://git.io/typing-svg)
 
-<div>
-<a href = "https://github.com/Kaique818">
-
-
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=kaique818&show_icons=true&theme=algolia">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique818&layout=donut&theme=algolia" />
-
 #
 <div align="center"><br>
     <h1 align="center">Linguagens</h1>
