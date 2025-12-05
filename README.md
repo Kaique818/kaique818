@@ -9,7 +9,7 @@ Sou apaixonado por transformar dados em soluções. Meu foco atual está no apri
 ✨ **Venha explorar meus projetos e códigos!**
 
 #
-<div align="center"><br>
+<div align="center">
     <h1 align="center">Linguagens</h1>
   <a href="https://github.com/kaique818/App_Medica.git"> <img align="center" alt="kaique-JAVA" height="60" width="70"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"> </a>
